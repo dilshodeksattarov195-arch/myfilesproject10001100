@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseponnect",
+        "uuid": 2791800,
+        "checksum": "ug3pwa"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
